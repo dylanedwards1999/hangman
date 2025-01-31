@@ -5,7 +5,8 @@ import java.util.Scanner;
 /*
  * Simple hangman game for CS2450.
  *
- * Test for git 
+ * Test for git
+ * hello 
  * @author Dylan Edwards
  */
 
