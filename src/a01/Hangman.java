@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * Test for git
  * hello 
- * @author Dylan Edwards
+* @author Dylan Edwards
  */
 
 public class Hangman {
